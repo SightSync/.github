@@ -10,9 +10,9 @@ SightSync is an application that uses open-source models 💡 to assist visually
 
 We've built SightSync using the following state-of-the-art open-source models:
 
-1. Zephyr: For understanding live environment scene structure at scale. The Linguistic-Landmarks Model (LLM) allows us to make sense of spatial data, an essential feature for our cause 🔍 
+1. Zephyr: For understanding live environment scene structure at scale. The model (LLM) allows us to make sense of what the user is asking for, an essential feature for our cause 🔍 
 
-2. Whisper: To convert spoken language into text format (STT) 🎤
+2. Distil-whisper: To convert spoken language into text format (STT) 🎤
 
 3. FastPitch: For converting text description into voice(TTS) 🎧
 
