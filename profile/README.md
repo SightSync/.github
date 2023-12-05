@@ -1,6 +1,6 @@
 # SightSync 👀🗣🧠
 
-Welcome to the SightSync repository - a platform dedicated to assisting visually impaired individuals by delivering natural, accurate verbal descriptions of their surroundings. This project was developed with lots of ❤️ by Oriol and Ferran for LauzHack2023 🏆
+Welcome to the [SightSync](https://devpost.com/software/sightsync) repository - a platform dedicated to assisting visually impaired individuals by delivering natural, accurate verbal descriptions of their surroundings. This project was developed with lots of ❤️ by Oriol and Ferran for LauzHack2023 🏆
 
 ## 📷 What is SightSync?
 
